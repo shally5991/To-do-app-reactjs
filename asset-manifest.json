@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://shally5991.github.io/To-do-React-app/static/css/main.e103da72.chunk.css",
+    "main.js": "/://shally5991.github.io/To-do-React-app/static/js/main.14120d8d.chunk.js",
+    "main.js.map": "/://shally5991.github.io/To-do-React-app/static/js/main.14120d8d.chunk.js.map",
+    "runtime-main.js": "/://shally5991.github.io/To-do-React-app/static/js/runtime-main.2403b6fe.js",
+    "runtime-main.js.map": "/://shally5991.github.io/To-do-React-app/static/js/runtime-main.2403b6fe.js.map",
+    "static/js/2.1e99c61e.chunk.js": "/://shally5991.github.io/To-do-React-app/static/js/2.1e99c61e.chunk.js",
+    "static/js/2.1e99c61e.chunk.js.map": "/://shally5991.github.io/To-do-React-app/static/js/2.1e99c61e.chunk.js.map",
+    "static/js/3.339488dd.chunk.js": "/://shally5991.github.io/To-do-React-app/static/js/3.339488dd.chunk.js",
+    "static/js/3.339488dd.chunk.js.map": "/://shally5991.github.io/To-do-React-app/static/js/3.339488dd.chunk.js.map",
+    "index.html": "/://shally5991.github.io/To-do-React-app/index.html",
+    "static/css/main.e103da72.chunk.css.map": "/://shally5991.github.io/To-do-React-app/static/css/main.e103da72.chunk.css.map",
+    "static/js/2.1e99c61e.chunk.js.LICENSE.txt": "/://shally5991.github.io/To-do-React-app/static/js/2.1e99c61e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2403b6fe.js",
+    "static/js/2.1e99c61e.chunk.js",
+    "static/css/main.e103da72.chunk.css",
+    "static/js/main.14120d8d.chunk.js"
+  ]
+}
